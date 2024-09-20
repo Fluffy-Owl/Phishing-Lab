@@ -1,7 +1,5 @@
 ## Documentation for Phishing Module on TryHackMe
 
-### Lab : **Phishing Detection and Analysis**
-
 ### Lab Overview:
 In this phishing module, I simulated the role of a SOC Analyst to learn how to detect and analyse to a phishing incident. I examined a phishing email, identified key phishing indicators, and mitigated the risks associated with the phishing attempt.
 
